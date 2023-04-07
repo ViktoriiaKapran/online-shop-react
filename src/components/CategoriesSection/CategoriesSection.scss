@@ -1,0 +1,9 @@
+.link-style {
+  color: rgb(18, 139, 199);
+  margin: 0 6px;
+}
+
+.link-style:hover {
+  color: rgb(255, 42, 42);
+  transition: color 0.4s;
+}

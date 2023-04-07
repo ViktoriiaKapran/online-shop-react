@@ -1,0 +1,17 @@
+.good-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  * {
+    margin: 4px 0;
+  }
+  .good-name {
+    text-decoration: none;
+    color: rgba(66, 68, 90, 1);
+    font-weight: 300;
+    line-height: 20px;
+    height: 48px;
+    text-align: center;
+  }
+}
